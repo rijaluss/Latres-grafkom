@@ -1,0 +1,160 @@
+object Form1: TForm1
+  Left = 263
+  Height = 544
+  Top = 100
+  Width = 854
+  Caption = 'Form1'
+  ClientHeight = 544
+  ClientWidth = 854
+  OnActivate = FormActivate
+  OnShow = FormShow
+  LCLVersion = '1.8.0.6'
+  object Button1: TButton
+    Left = 72
+    Height = 25
+    Top = 64
+    Width = 75
+    Caption = 'Kotak'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 27
+    Height = 21
+    Top = 293
+    Width = 53
+    Caption = 'Kiri'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 80
+    Height = 21
+    Top = 248
+    Width = 53
+    Caption = 'Atas'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 80
+    Height = 21
+    Top = 336
+    Width = 53
+    Caption = 'Bawah'
+    OnClick = Button4Click
+    TabOrder = 3
+  end
+  object Button5: TButton
+    Left = 136
+    Height = 21
+    Top = 293
+    Width = 53
+    Caption = 'Kanan'
+    OnClick = Button5Click
+    TabOrder = 4
+  end
+  object Image1: TImage
+    Left = 208
+    Height = 472
+    Top = 24
+    Width = 612
+    OnMouseMove = Image1MouseMove
+  end
+  object Label1: TLabel
+    Left = 680
+    Height = 15
+    Top = 504
+    Width = 34
+    Caption = 'Label1'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 760
+    Height = 15
+    Top = 504
+    Width = 34
+    Caption = 'Label2'
+    ParentColor = False
+  end
+  object Button6: TButton
+    Left = 40
+    Height = 21
+    Top = 256
+    Width = 28
+    Caption = 'Button6'
+    OnClick = Button6Click
+    TabOrder = 5
+  end
+  object Button7: TButton
+    Left = 144
+    Height = 21
+    Top = 256
+    Width = 28
+    Caption = 'Button7'
+    OnClick = Button7Click
+    TabOrder = 6
+  end
+  object Button8: TButton
+    Left = 40
+    Height = 21
+    Top = 328
+    Width = 28
+    Caption = 'Button8'
+    OnClick = Button8Click
+    TabOrder = 7
+  end
+  object Button9: TButton
+    Left = 144
+    Height = 21
+    Top = 328
+    Width = 28
+    Caption = 'Button9'
+    OnClick = Button9Click
+    TabOrder = 8
+  end
+  object SpinEdit1: TSpinEdit
+    Left = 82
+    Height = 23
+    Top = 293
+    Width = 51
+    OnChange = SpinEdit1Change
+    TabOrder = 9
+  end
+  object Button10: TButton
+    Left = 35
+    Height = 24
+    Top = 184
+    Width = 45
+    Caption = 'Button10'
+    OnClick = Button10Click
+    TabOrder = 10
+  end
+  object Button11: TButton
+    Left = 136
+    Height = 24
+    Top = 184
+    Width = 46
+    Caption = 'Button11'
+    OnClick = Button11Click
+    TabOrder = 11
+  end
+  object Button12: TButton
+    Left = 40
+    Height = 24
+    Top = 392
+    Width = 132
+    Caption = 'Button12'
+    OnClick = Button12Click
+    TabOrder = 12
+  end
+  object Button13: TButton
+    Left = 40
+    Height = 24
+    Top = 424
+    Width = 132
+    Caption = 'Button13'
+    OnClick = Button13Click
+    TabOrder = 13
+  end
+end

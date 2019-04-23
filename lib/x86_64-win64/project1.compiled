@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\ProgramFiles\lazarus\fpc\3.0.2\bin\x86_64-win64\fpc.exe" Date="1247518955"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiE:\Semester 6\Praktikum\Grafika Komputer\Pertemuan 3\lib\x86_64-win64&quot; -FuD:\ProgramFiles\lazarus\lcl\units\x86_64-win64\win32 -FuD:\ProgramFiles\lazarus\lcl\units\x86_64-win64 -FuD:\ProgramFiles\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\ProgramFiles\lazarus\packager\units\x86_64-win64 &quot;-FuE:\Semester 6\Praktikum\Grafika Komputer\Pertemuan 3\&quot; &quot;-FUE:\Semester 6\Praktikum\Grafika Komputer\Pertemuan 3\lib\x86_64-win64\&quot; -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
